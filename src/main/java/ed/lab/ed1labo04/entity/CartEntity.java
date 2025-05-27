@@ -3,7 +3,7 @@ package ed.lab.ed1labo04.entity;
 import jakarta.persistence.*;
 
 import java.util.List;
-
+//Comentario para pushes
 @Entity
 public class CartEntity {
     @Id
